@@ -1,0 +1,39 @@
+Personas:
+PO
+Civilians
+Charities
+Retail Stores
+ 
+ 
+UI
+Connection UI
+Rewards History Lookup
+ 
+Systems
+Onboarding
+Terms & Conditions
+Data Protection
+Push Notification
+Location Tracker
+Points Management
+Connections Management
+Referrals
+StoreFront Management
+B2B Services
+Connections Report by Zipcode
+Points History/Activity
+Fee Calculation
+Points Redemption
+EOM batch run
+Community Gains
+Community Spend Plan
+Charity - Retail Mapping
+HeyBlue Social Media ( is this an existing system .. Or we responsible to build this as well). If we do, then we need to add to UI
+ 
+ 
+ 
+offer these users maximum value to fulfill the intent of logging on the app and turning on their location finder.
+ 
+ 
+Service Dependencies
+Location Tracker
